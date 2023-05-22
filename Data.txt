@@ -1,0 +1,12 @@
+Our data set involves 2 functions that were given to us by sir
+
+1) sin(x) * sin(y)
+2) cos(x) * sin(y) + 0.2*(x+y)  - Part of Sir's Research Paper
+
+We have implemented our code for 2 additional data sets/ functions that are:
+
+1) sin(x) + sin(y)
+2) sin(x) * sin(y) + cos(x+y)
+
+Additionally, we had tested our code on few other functions like sin(2pi*x) + cos (2pi*y) 
+but we have included 4 functions above in our final code.
